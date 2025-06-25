@@ -1,0 +1,450 @@
+{
+    "version": 1,
+    "duration": 60,
+    "variableMappings": [
+        {
+            "name": "An_LAnkleOut norm",
+            "id": 0,
+            "rowID": "8",
+            "gain": 0.16000000000000003,
+            "pan": -5,
+            "state": true,
+            "color": "#D4E09B",
+            "audioObjectID": 222,
+            "mappings": [
+                {
+                    "parameterID": 224,
+                    "inputLow": 0,
+                    "inputHigh": 0.95,
+                    "outputLow": 2654,
+                    "outputHigh": 4817,
+                    "relInputLow": 0,
+                    "relInputHigh": 0.9499999750956922,
+                    "invert": false,
+                    "state": true,
+                    "id": 0
+                },
+                {
+                    "parameterID": 225,
+                    "inputLow": 0.22,
+                    "inputHigh": 0.41,
+                    "outputLow": -40,
+                    "outputHigh": 6,
+                    "relInputLow": 0.2199996114927987,
+                    "relInputHigh": 0.40999970612916825,
+                    "invert": false,
+                    "state": true,
+                    "id": 1
+                },
+                {
+                    "parameterID": 226,
+                    "inputLow": 0,
+                    "inputHigh": 0.68,
+                    "outputLow": 0.1,
+                    "outputHigh": 32.1,
+                    "relInputLow": 0,
+                    "relInputHigh": 0.6799998406124302,
+                    "invert": false,
+                    "state": true,
+                    "id": 2
+                }
+            ]
+        },
+        {
+            "name": "An_RAnkleOut norm",
+            "id": 1,
+            "rowID": "5",
+            "gain": 0.1521,
+            "pan": 1.6,
+            "state": true,
+            "color": "#F6F4D2",
+            "audioObjectID": 241,
+            "mappings": [
+                {
+                    "parameterID": 243,
+                    "inputLow": 0,
+                    "inputHigh": 0.869,
+                    "outputLow": 2823,
+                    "outputHigh": 4518,
+                    "relInputLow": 0,
+                    "relInputHigh": 0.8695878540933694,
+                    "invert": false,
+                    "state": true,
+                    "id": 3
+                },
+                {
+                    "parameterID": 244,
+                    "inputLow": 0,
+                    "inputHigh": 0.64,
+                    "outputLow": -40,
+                    "outputHigh": 6,
+                    "relInputLow": 0,
+                    "relInputHigh": 0.640432938427926,
+                    "invert": false,
+                    "state": true,
+                    "id": 4
+                },
+                {
+                    "parameterID": 245,
+                    "inputLow": 0,
+                    "inputHigh": 0.72,
+                    "outputLow": 0.1,
+                    "outputHigh": 36.1,
+                    "relInputLow": 0,
+                    "relInputHigh": 0.7204870574376878,
+                    "invert": false,
+                    "state": true,
+                    "id": 5
+                }
+            ]
+        },
+        {
+            "name": "Am_LAnkleOut norm",
+            "id": 2,
+            "rowID": "17",
+            "gain": 0.17639999999999997,
+            "pan": 5,
+            "state": true,
+            "color": "#F19C79",
+            "audioObjectID": 260,
+            "mappings": [
+                {
+                    "parameterID": 262,
+                    "inputLow": 0,
+                    "inputHigh": 0.459,
+                    "outputLow": 3022,
+                    "outputHigh": 5813,
+                    "relInputLow": 0,
+                    "relInputHigh": 0.4596429314412991,
+                    "invert": false,
+                    "state": true,
+                    "id": 6
+                },
+                {
+                    "parameterID": 263,
+                    "inputLow": 0,
+                    "inputHigh": 0.33,
+                    "outputLow": -40,
+                    "outputHigh": 9,
+                    "relInputLow": 0,
+                    "relInputHigh": 0.33046117475326175,
+                    "invert": false,
+                    "state": true,
+                    "id": 7
+                },
+                {
+                    "parameterID": 264,
+                    "inputLow": 0.00000377889180384209,
+                    "inputHigh": 0.34,
+                    "outputLow": 7.1,
+                    "outputHigh": 47.1,
+                    "relInputLow": 0,
+                    "relInputHigh": 0.34047526441900106,
+                    "invert": false,
+                    "state": true,
+                    "id": 8
+                }
+            ]
+        },
+        {
+            "name": "Am_RAnkleOut norm",
+            "id": 3,
+            "rowID": "14",
+            "gain": 0.1024,
+            "pan": -2.4,
+            "state": true,
+            "color": "#A44A3F",
+            "audioObjectID": 279,
+            "mappings": [
+                {
+                    "parameterID": 281,
+                    "inputLow": 0,
+                    "inputHigh": 0.46,
+                    "outputLow": 3022,
+                    "outputHigh": 5813,
+                    "relInputLow": 0,
+                    "relInputHigh": 0.4599999999999999,
+                    "invert": false,
+                    "state": true,
+                    "id": 9
+                },
+                {
+                    "parameterID": 282,
+                    "inputLow": 0,
+                    "inputHigh": 0.33,
+                    "outputLow": -40,
+                    "outputHigh": 10,
+                    "relInputLow": 0,
+                    "relInputHigh": 0.32999999999999985,
+                    "invert": false,
+                    "state": true,
+                    "id": 10
+                },
+                {
+                    "parameterID": 283,
+                    "inputLow": 0,
+                    "inputHigh": 0.33,
+                    "outputLow": 7.1,
+                    "outputHigh": 47.1,
+                    "relInputLow": 0,
+                    "relInputHigh": 0.32999999999999985,
+                    "invert": false,
+                    "state": true,
+                    "id": 11
+                }
+            ]
+        },
+        {
+            "name": "An_BackTop y1",
+            "id": 5,
+            "rowID": "1",
+            "gain": 0.25,
+            "pan": -1.3,
+            "state": true,
+            "color": "#819B25",
+            "audioObjectID": 117,
+            "mappings": [
+                {
+                    "parameterID": 120,
+                    "inputLow": 0.002,
+                    "inputHigh": 0.81,
+                    "outputLow": 0,
+                    "outputHigh": 1,
+                    "relInputLow": 0,
+                    "relInputHigh": 0.8095996280212778,
+                    "invert": false,
+                    "state": true,
+                    "id": 13
+                },
+                {
+                    "parameterID": 119,
+                    "inputLow": 0.00210278989773727,
+                    "inputHigh": 1,
+                    "outputLow": 0,
+                    "outputHigh": 1,
+                    "relInputLow": 0,
+                    "relInputHigh": 1,
+                    "invert": false,
+                    "state": true,
+                    "id": 22
+                }
+            ]
+        },
+        {
+            "name": "Am_BackTop y1",
+            "id": 6,
+            "rowID": "10",
+            "gain": 0.10890000000000001,
+            "pan": 2.3,
+            "state": true,
+            "color": "#AAAD9B",
+            "audioObjectID": 152,
+            "mappings": [
+                {
+                    "parameterID": 155,
+                    "inputLow": 0,
+                    "inputHigh": 0.6,
+                    "outputLow": 0,
+                    "outputHigh": 1,
+                    "relInputLow": 0,
+                    "relInputHigh": 0.5999933809017343,
+                    "invert": false,
+                    "state": true,
+                    "id": 14
+                },
+                {
+                    "parameterID": 156,
+                    "inputLow": 0,
+                    "inputHigh": 0.99,
+                    "outputLow": 52,
+                    "outputHigh": 52,
+                    "relInputLow": 0,
+                    "relInputHigh": 0.9899998345227305,
+                    "invert": false,
+                    "state": true,
+                    "id": 15
+                },
+                {
+                    "parameterID": 154,
+                    "inputLow": 0.0000165474721288694,
+                    "inputHigh": 0.999999999999808,
+                    "outputLow": 0,
+                    "outputHigh": 1,
+                    "relInputLow": 0,
+                    "relInputHigh": 1,
+                    "invert": false,
+                    "state": true,
+                    "id": 21
+                }
+            ]
+        },
+        {
+            "name": "An_BackTop norm",
+            "id": 7,
+            "rowID": "2",
+            "gain": 0.34809999999999997,
+            "pan": -3.1,
+            "state": true,
+            "color": "#3FB4A6",
+            "audioObjectID": 187,
+            "mappings": [
+                {
+                    "parameterID": 189,
+                    "inputLow": 0.427,
+                    "inputHigh": 0.939,
+                    "outputLow": 0,
+                    "outputHigh": 1,
+                    "relInputLow": 0.45007161287715836,
+                    "relInputHigh": 0.9899792139586033,
+                    "invert": false,
+                    "state": true,
+                    "id": 16
+                },
+                {
+                    "parameterID": 191,
+                    "inputLow": 0.00000830111291123241,
+                    "inputHigh": 1,
+                    "outputLow": 54,
+                    "outputHigh": 54,
+                    "relInputLow": 0,
+                    "relInputHigh": 1,
+                    "invert": false,
+                    "state": true,
+                    "id": 18
+                }
+            ]
+        },
+        {
+            "name": "Am_BackTop norm",
+            "id": 8,
+            "rowID": "11",
+            "gain": 0.5476,
+            "pan": 2.9,
+            "state": true,
+            "color": "#7CECDD",
+            "audioObjectID": 394,
+            "mappings": [
+                {
+                    "parameterID": 396,
+                    "inputLow": 0.47,
+                    "inputHigh": 0.96,
+                    "outputLow": 0,
+                    "outputHigh": 1,
+                    "relInputLow": 0.47,
+                    "relInputHigh": 0.96,
+                    "invert": false,
+                    "state": true,
+                    "id": 17
+                },
+                {
+                    "parameterID": 398,
+                    "inputLow": 0.0000112393341607359,
+                    "inputHigh": 0.967480649473164,
+                    "outputLow": 45,
+                    "outputHigh": 45,
+                    "relInputLow": 0,
+                    "relInputHigh": 1,
+                    "invert": false,
+                    "state": true,
+                    "id": 19
+                }
+            ]
+        },
+        {
+            "name": "Ol_Rfoot y1",
+            "id": 9,
+            "rowID": "19",
+            "gain": 0.0961,
+            "pan": 0,
+            "state": true,
+            "color": "#D4E09B",
+            "audioObjectID": 385,
+            "mappings": [
+                {
+                    "parameterID": 388,
+                    "inputLow": 0.016,
+                    "inputHigh": 0.517,
+                    "outputLow": 0,
+                    "outputHigh": 1,
+                    "relInputLow": 0.000028624598933149877,
+                    "relInputHigh": 0.5101881390090006,
+                    "invert": false,
+                    "state": true,
+                    "id": 30
+                }
+            ]
+        },
+        {
+            "name": "An_BackTop norm",
+            "id": 10,
+            "rowID": "2",
+            "gain": 0.48999999999999994,
+            "pan": -1.8,
+            "state": true,
+            "color": "#B75E38",
+            "audioObjectID": 298,
+            "mappings": [
+                {
+                    "parameterID": 300,
+                    "inputLow": 0,
+                    "inputHigh": 0.617,
+                    "outputLow": 3421,
+                    "outputHigh": 5913,
+                    "relInputLow": 0,
+                    "relInputHigh": 0.6504279492159758,
+                    "invert": false,
+                    "state": true,
+                    "id": 119
+                },
+                {
+                    "parameterID": 301,
+                    "inputLow": 0,
+                    "inputHigh": 0.541,
+                    "outputLow": -15,
+                    "outputHigh": 10,
+                    "relInputLow": 0,
+                    "relInputHigh": 0.5702854146804489,
+                    "invert": false,
+                    "state": true,
+                    "id": 120
+                }
+            ]
+        },
+        {
+            "name": "Am_BackTop norm",
+            "id": 11,
+            "rowID": "11",
+            "gain": 0.4624000000000001,
+            "pan": 2,
+            "state": true,
+            "color": "#F6F4D2",
+            "audioObjectID": 534,
+            "mappings": [
+                {
+                    "parameterID": 536,
+                    "inputLow": 0,
+                    "inputHigh": 0.89,
+                    "outputLow": 3222,
+                    "outputHigh": 6013,
+                    "relInputLow": 0,
+                    "relInputHigh": 0.89,
+                    "invert": false,
+                    "state": true,
+                    "id": 121
+                },
+                {
+                    "parameterID": 537,
+                    "inputLow": 0,
+                    "inputHigh": 0.9,
+                    "outputLow": -15,
+                    "outputHigh": 10,
+                    "relInputLow": 0,
+                    "relInputHigh": 0.9,
+                    "invert": false,
+                    "state": true,
+                    "id": 122
+                }
+            ]
+        }
+    ]
+}
